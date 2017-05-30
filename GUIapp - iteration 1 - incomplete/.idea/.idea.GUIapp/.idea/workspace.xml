@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b72fc61b-80f7-46b7-b115-2199b81009b9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DefaultUpdateVisitor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/DefaultUpdateVisitor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <marker date="1496172858692" expanded="true" signature="6:81" ph="..." />
+                <marker date="1496172858692" expanded="true" signature="156:930" ph="{...}" />
+                <marker date="1496172858692" expanded="true" signature="258:639" ph="{...}" />
+                <marker date="1496172858692" expanded="true" signature="468:539" ph="{...}" />
+                <marker date="1496172858692" expanded="true" signature="556:629" ph="{...}" />
+                <marker date="1496172858692" expanded="true" signature="697:766" ph="{...}" />
+                <marker date="1496172858692" expanded="true" signature="831:924" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GUI.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/GUI/GUI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding>
+                <marker date="1496172913957" expanded="true" signature="6:78" ph="..." />
+                <marker date="1496172913957" expanded="true" signature="96:1665" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="132:664" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="322:461" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="505:548" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="606:655" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="701:1663" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="966:1200" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="1245:1326" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="1373:1550" ph="{...}" />
+                <marker date="1496172913957" expanded="true" signature="1609:1659" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Option.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/Option.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1496166058551" expanded="true" signature="7:161" ph="..." />
+                <marker date="1496166058551" expanded="true" signature="210:318" ph="{...}" />
+                <marker date="1496166058551" expanded="true" signature="354:538" ph="{...}" />
+                <marker date="1496166058551" expanded="true" signature="415:450" ph="{...}" />
+                <marker date="1496166058551" expanded="true" signature="506:534" ph="{...}" />
+                <marker date="1496166058551" expanded="true" signature="575:847" ph="{...}" />
+                <marker date="1496166058551" expanded="true" signature="618:656" ph="{...}" />
+                <marker date="1496166058551" expanded="true" signature="714:754" ph="{...}" />
+                <marker date="1496166058551" expanded="true" signature="810:843" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1496175306496" expanded="true" signature="31:195" ph="{...}" />
+                <marker date="1496175306496" expanded="true" signature="65:193" ph="{...}" />
+                <marker date="1496175306496" expanded="true" signature="118:187" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IDrawVisitor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/IDrawVisitor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <marker date="1496166251269" expanded="true" signature="68:202" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Content.mgcb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Content/Content.mgcb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1494329630000" expanded="false" signature="6:101" ph="..." />
+                <marker date="1494329630000" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1494329630000" expanded="true" signature="589:799" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1494329630000" expanded="true" signature="974:1301" ph="/* Version information for an assembly consists of the following four values: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IUpdateVisitor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/IUpdateVisitor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <marker date="1496172408479" expanded="true" signature="70:240" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Point.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Misc/Point.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <marker date="1496177093076" expanded="true" signature="6:160" ph="..." />
+                <marker date="1496177093076" expanded="true" signature="178:360" ph="{...}" />
+                <marker date="1496177093076" expanded="true" signature="201:358" ph="{...}" />
+                <marker date="1496177093076" expanded="true" signature="240:288" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game1.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUIapp/Game/Game1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <marker date="1496180751558" expanded="true" signature="6:107" ph="..." />
+                <marker date="1496180751558" expanded="true" signature="125:1515" ph="{...}" />
+                <marker date="1496180751558" expanded="true" signature="155:1513" ph="{...}" />
+                <marker date="1496180751558" expanded="true" signature="340:484" ph="{...}" />
+                <marker date="1496180751558" expanded="true" signature="531:702" ph="{...}" />
+                <marker date="1496180751558" expanded="true" signature="745:947" ph="{...}" />
+                <marker date="1496180751558" expanded="true" signature="1002:1278" ph="{...}" />
+                <marker date="1496180751558" expanded="true" signature="1331:1509" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OutputPath</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GUIapp/Utils.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/GUIapp.csproj" />
+        <option value="$PROJECT_DIR$/GUIapp/GUI/IDrawable.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/Visitors/DefaultDrawVisitor.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/Misc/Utils.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/Visitors/IUpdateVisitor.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/GUI/IUpdateable.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/GUI/GuiManager.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/Visitors/DefaultUpdateVisitor.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/GUI/GUI.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/Program.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/Misc/Point.cs" />
+        <option value="$PROJECT_DIR$/GUIapp/Microsoft.Xna.Framework.Audio.OpenALSoundController.dll.config" />
+        <option value="$PROJECT_DIR$/GUIapp/MonoGame.Framework.dll.config" />
+        <option value="$PROJECT_DIR$/GUIapp/Game/Game1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Visitors" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Misc" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUI" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Content" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIapp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assemblies" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ToolWindowBuild.ShowToolbar" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/GUIapp.csproj" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GUIapp/GUIapp.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/GUIapp/GUIapp.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUIapp" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b72fc61b-80f7-46b7-b115-2199b81009b9" name="Default" comment="" />
+      <created>1494332520825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494332520825</updated>
+      <workItem from="1494332524075" duration="1031000" />
+      <workItem from="1496169397878" duration="9592000" />
+      <workItem from="1496179561750" duration="4539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15162000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="0" width="1370" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64714086" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13616398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2938296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/DefaultUpdateVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <marker date="1496172858692" expanded="true" signature="6:81" ph="..." />
+            <marker date="1496172858692" expanded="true" signature="156:930" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="258:639" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="468:539" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="556:629" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="697:766" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="831:924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUI/GUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <marker date="1496172913957" expanded="true" signature="6:78" ph="..." />
+            <marker date="1496172913957" expanded="true" signature="96:1665" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="132:664" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="322:461" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="505:548" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="606:655" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="701:1663" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="966:1200" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="1245:1326" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="1373:1550" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="1609:1659" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/Option.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496166058551" expanded="true" signature="7:161" ph="..." />
+            <marker date="1496166058551" expanded="true" signature="210:318" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="354:538" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="415:450" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="506:534" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="575:847" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="618:656" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="714:754" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="810:843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1496175306496" expanded="true" signature="31:195" ph="{...}" />
+            <marker date="1496175306496" expanded="true" signature="65:193" ph="{...}" />
+            <marker date="1496175306496" expanded="true" signature="118:187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/IDrawVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <marker date="1496166251269" expanded="true" signature="68:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Content/Content.mgcb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1494329630000" expanded="false" signature="6:101" ph="..." />
+            <marker date="1494329630000" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1494329630000" expanded="true" signature="589:799" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1494329630000" expanded="true" signature="974:1301" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/IUpdateVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1496172408479" expanded="true" signature="70:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Misc/Point.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1496177093076" expanded="true" signature="6:160" ph="..." />
+            <marker date="1496177093076" expanded="true" signature="178:360" ph="{...}" />
+            <marker date="1496177093076" expanded="true" signature="201:358" ph="{...}" />
+            <marker date="1496177093076" expanded="true" signature="240:288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUIapp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Utils.cs" />
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUIapp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Misc/Utils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUI/IUpdateable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUI/GuiElement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUI/GuiManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUI/IDrawable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/DefaultDrawVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="37" column="60" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/DefaultUpdateVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <marker date="1496172858692" expanded="true" signature="6:81" ph="..." />
+            <marker date="1496172858692" expanded="true" signature="156:930" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="258:639" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="468:539" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="556:629" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="697:766" ph="{...}" />
+            <marker date="1496172858692" expanded="true" signature="831:924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/GUI/GUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <marker date="1496172913957" expanded="true" signature="6:78" ph="..." />
+            <marker date="1496172913957" expanded="true" signature="96:1665" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="132:664" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="322:461" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="505:548" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="606:655" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="701:1663" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="966:1200" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="1245:1326" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="1373:1550" ph="{...}" />
+            <marker date="1496172913957" expanded="true" signature="1609:1659" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/Option.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496166058551" expanded="true" signature="7:161" ph="..." />
+            <marker date="1496166058551" expanded="true" signature="210:318" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="354:538" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="415:450" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="506:534" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="575:847" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="618:656" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="714:754" ph="{...}" />
+            <marker date="1496166058551" expanded="true" signature="810:843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1494329630000" expanded="false" signature="6:101" ph="..." />
+            <marker date="1494329630000" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1494329630000" expanded="true" signature="589:799" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1494329630000" expanded="true" signature="974:1301" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Content/Content.mgcb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1496175306496" expanded="true" signature="31:195" ph="{...}" />
+            <marker date="1496175306496" expanded="true" signature="65:193" ph="{...}" />
+            <marker date="1496175306496" expanded="true" signature="118:187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/IDrawVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <marker date="1496166251269" expanded="true" signature="68:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Visitors/IUpdateVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1496172408479" expanded="true" signature="70:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Microsoft.Xna.Framework.Audio.OpenALSoundController.dll.config" />
+    <entry file="file://$PROJECT_DIR$/GUIapp/MonoGame.Framework.dll.config" />
+    <entry file="file://$PROJECT_DIR$/GUIapp/Misc/Point.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1496177093076" expanded="true" signature="6:160" ph="..." />
+            <marker date="1496177093076" expanded="true" signature="178:360" ph="{...}" />
+            <marker date="1496177093076" expanded="true" signature="201:358" ph="{...}" />
+            <marker date="1496177093076" expanded="true" signature="240:288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIapp/Game/Game1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <marker date="1496180751558" expanded="true" signature="6:107" ph="..." />
+            <marker date="1496180751558" expanded="true" signature="125:1515" ph="{...}" />
+            <marker date="1496180751558" expanded="true" signature="155:1513" ph="{...}" />
+            <marker date="1496180751558" expanded="true" signature="340:484" ph="{...}" />
+            <marker date="1496180751558" expanded="true" signature="531:702" ph="{...}" />
+            <marker date="1496180751558" expanded="true" signature="745:947" ph="{...}" />
+            <marker date="1496180751558" expanded="true" signature="1002:1278" ph="{...}" />
+            <marker date="1496180751558" expanded="true" signature="1331:1509" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

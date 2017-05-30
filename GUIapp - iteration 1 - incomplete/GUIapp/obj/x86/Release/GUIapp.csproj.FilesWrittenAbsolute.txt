@@ -1,0 +1,2 @@
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/bin/Windows/x86/Release/MonoGame.Framework.dll

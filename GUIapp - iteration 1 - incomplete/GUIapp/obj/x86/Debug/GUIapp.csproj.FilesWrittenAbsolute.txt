@@ -1,0 +1,7 @@
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/bin//x86/Debug/Content/Arial.xnb
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/bin//x86/Debug/Content/white_pixel.xnb
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/bin//x86/Debug/GUIapp.exe
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/obj/x86/Debug/GUIapp.exe
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/bin//x86/Debug/MonoGame.Framework.dll
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/bin//x86/Debug/OpenTK.dll

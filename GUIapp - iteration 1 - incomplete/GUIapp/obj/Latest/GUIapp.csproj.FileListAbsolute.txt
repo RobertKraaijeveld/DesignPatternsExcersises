@@ -1,0 +1,2 @@
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/obj/Latest/GUIapp.exe
+/home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/obj/Latest/GUIapp.pdb
