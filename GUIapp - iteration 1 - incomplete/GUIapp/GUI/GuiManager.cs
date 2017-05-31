@@ -10,18 +10,13 @@ namespace GUIapp
     public GuiManager(System.Action exit)
     {
       var elementsList = new List<GuiElement>();
-      elementsList .Add(new Label("A label", new Point(0, 0), 10, Color.Black));
-      elementsList .Add(new Button("Click me", new Point(0, 100), 10, Color.Black, 100, 30,
-                                                  () => {
-                                                    elementsList = new List<GuiElement>();
-                                                    elementsList.Add(new Button("Exit", new Point(0, 0), 10, Color.Black, 100, 30,
-                                                            () => {
-                                                              exit();
-                                                            }
-                                                            ));
-                                                  }
-                                                  )); //This action probably doesnt work anymore now
-                                                      //Make button labels visible
+      elementsList .Add(new Label("I returned, and saw under the sun, that the race is not to the swift, \n" +
+                                  "nor the battle to the strong, neither yet bread to the wise, \n" +
+                                  "nor yet riches to men of understanding, nor yet favour to men of skill; \n" +
+                                  "but time and chance happeneth to them all. \n", 
+                                  new Point(0, 0), 10, Color.Black));
+      
+      elementsList .Add(new Button("Quit", new Point(0, 100), 10, Color.Black, 100, 30, () => { exit(); } )); 
       
       this.elements = new GUIElementsIterator(elementsList);
     }
