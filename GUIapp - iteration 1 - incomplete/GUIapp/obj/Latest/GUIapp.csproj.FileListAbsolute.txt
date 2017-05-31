@@ -1,2 +1,24 @@
 /home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/obj/Latest/GUIapp.exe
 /home/robert/Documents/Projects/Software Engineering GUI Excersises/GUIapp - iteration 1 - incomplete/GUIapp/obj/Latest/GUIapp.pdb
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\obj\Latest\GUIapp.exe
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\Content\Arial.xnb
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\Content\white_pixel.xnb
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\GUIapp.exe
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\MonoGame.Framework.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.MediaFoundation.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.XAudio2.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.DXGI.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.Direct3D11.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.Direct2D1.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.XInput.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.Direct3D9.dll
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\MonoGame.Framework.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.MediaFoundation.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.XAudio2.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.DXGI.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.Direct3D11.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.Direct2D1.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.XInput.xml
+e:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\AnyCPU\Latest\SharpDX.Direct3D9.xml

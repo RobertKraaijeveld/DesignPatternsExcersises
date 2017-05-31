@@ -16,7 +16,6 @@ namespace GUIapp
     public Game1()
     {
 				graphics = new GraphicsDeviceManager(this);
-        graphics.PreferMultiSampling = true;
 				Content.RootDirectory = "Content";
     }
     
