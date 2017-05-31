@@ -56,7 +56,6 @@ namespace GUIapp
     public void Draw(IDrawVisitor visitor)
     {
       visitor.DrawButton(this);
-      visitor.DrawLabel(this.label);
     }
 
 
