@@ -1,20 +1,16 @@
 using System;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.Input;
-using Microsoft.Xna.Framework.Graphics;
 
 namespace GUIapp
 {
   public class Point
   {
-    public Point(float x, float y)
+    public Point(int x, int y)
     {
       this.X = x;
       this.Y = y;
     }
-    public float X { get; set; }
-    public float Y { get; set; }
+    public int X { get; set; }
+    public int Y { get; set; }
   }
 }
 

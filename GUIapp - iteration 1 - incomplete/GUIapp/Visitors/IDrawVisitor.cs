@@ -6,6 +6,6 @@ namespace GUIapp
     {
         void DrawButton(Button element);
         void DrawLabel(Label element);
-        void DrawGui(GuiManager element);
+        void DrawGuiView(GuiView element);
     }
 }

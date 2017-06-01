@@ -40,11 +40,11 @@ namespace GUIapp
             return new Some<GuiElement>(elements[index]);
         }
 
+        
         private bool HasNext()
         {
             return (index + 1) < elements.Count;
         }
-
 
         private void MoveNext()
         {
