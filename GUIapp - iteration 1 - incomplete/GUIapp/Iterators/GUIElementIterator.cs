@@ -2,14 +2,14 @@ using System.Collections.Generic;
 
 namespace GUIapp
 {
-    public class GUIElementsIterator : Iterator<GuiElement>
+    public class GUIElementsIterator : Iterator<IGuiElement>
     {
         //temp public
-        public List<GuiElement> elements;
+        public List<IGuiElement> elements;
 
         private int index = -1;
 
-        public GUIElementsIterator(List<GuiElement> elements)
+        public GUIElementsIterator(List<IGuiElement> elements)
         {
             this.elements = elements;
         }
@@ -22,33 +22,24 @@ namespace GUIapp
 
         //uses visitor that will return true on some, false on none.
         //basically, haphazard hasNext
-        public Option<GuiElement> GetNext()
+        public Option<IGuiElement> GetNext()
         {
-            if (HasNext())
+            if ((index + 1) < elements.Count)
             {
-                MoveNext();
+                index++;
                 return GetCurrent();
             }
             else
             {
-                return new None<GuiElement>();
+                return new None<IGuiElement>();
             }
         }
 
-        public Some<GuiElement> GetCurrent()
+        public Option<IGuiElement> GetCurrent()
         {
-            return new Some<GuiElement>(elements[index]);
-        }
+            if (index == -1) { return new None<IGuiElement>(); } 
+            else { return new Some<IGuiElement>(elements[index]); }
 
-        
-        private bool HasNext()
-        {
-            return (index + 1) < elements.Count;
-        }
-
-        private void MoveNext()
-        {
-            index++;
         }
     }
 }

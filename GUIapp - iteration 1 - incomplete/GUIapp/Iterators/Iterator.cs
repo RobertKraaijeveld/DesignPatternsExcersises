@@ -5,9 +5,7 @@ namespace GUIapp
     public interface Iterator<T>
     {
         Option<T> GetNext();
-        
-        //not sure if nice
-        Some<T> GetCurrent();
+        Option<T> GetCurrent();
         void Reset();
     }
 }

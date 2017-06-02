@@ -1,5 +1,4 @@
-﻿using System;
-using GUIapp.FrameworkAdapter;
+﻿using GUIapp.FrameworkAdapter;
 using GUIapp.GuiFactories;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
@@ -12,11 +11,8 @@ namespace GUIapp
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        IInputAdapter inputAdapter;
         IDrawingAdapter drawingAdapter;
-
-        IDrawVisitor DrawVisitor;
-        IUpdateVisitor UpdateVisitor;
+        IElementVisitor drawingVisitor;
 
         public Game1()
         {
@@ -30,18 +26,16 @@ namespace GUIapp
             base.Initialize();
             this.IsMouseVisible = true;
             
+            drawingVisitor = new DefaultDrawVisitor(drawingAdapter);
+            
             GuiFactory guiFactory = new FancyGuiFactory(() => Exit());
             GuiManager.currentView = guiFactory.CreateMainView();
-            
-            inputAdapter = new MonoGameMouse();
-            UpdateVisitor = new DefaultUpdateVisitor(inputAdapter );
         }
 
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
             drawingAdapter = new MonoGameDrawer("white_pixel", "arial", spriteBatch, Content);
-            DrawVisitor = new DefaultDrawVisitor(drawingAdapter);
         }
 
         protected override void Update(GameTime gameTime)
@@ -50,7 +44,7 @@ namespace GUIapp
                 Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
-            GuiManager.currentView.Update(UpdateVisitor, (float) gameTime.ElapsedGameTime.TotalMilliseconds);
+            GuiManager.currentView.Update();
             base.Update(gameTime);
         }
 
@@ -59,9 +53,9 @@ namespace GUIapp
             GraphicsDevice.Clear(Color.CornflowerBlue);
             
             spriteBatch.Begin();
-            GuiManager.currentView.Draw(DrawVisitor);
+            GuiManager.currentView.Draw(drawingVisitor);
             spriteBatch.End();
-
+            
             base.Draw(gameTime);
         }
     }

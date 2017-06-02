@@ -1,8 +1,9 @@
 namespace GUIapp
 {
-    //God this is dirty
+    //This ensures we never update the elements of the wrong view, 
+    //since only 1 view can be active at the same time
     public static class GuiManager
     {
-        public static GuiView currentView;
+        public static ViewElement currentView;
     }
 }

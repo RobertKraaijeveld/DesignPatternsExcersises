@@ -1,8 +1,9 @@
-using GUIapp.FrameworkAdapter;
+﻿using GUIapp.FrameworkAdapter;
+using GUIapp.GuiDecorators;
 
 namespace GUIapp
 {
-    public class DefaultDrawVisitor : IDrawVisitor
+    public class DefaultDrawVisitor : IElementVisitor
     {
         private IDrawingAdapter drawingAdapter;
 
@@ -10,20 +11,15 @@ namespace GUIapp
         {
             this.drawingAdapter = drawingAdapter;
         }
+        
+        //Maybe add button element next to clickable decorator?
 
-        public void DrawButton(Button element)
+        public override void OnLabel(LabelElement element)
         {
-            drawingAdapter.DrawRectangle(element.top_left_corner, element.width, element.height, element.color);
-            element.label.Draw(this);
+            drawingAdapter.DrawString(element.text, element.position, element.color);
         }
 
-        public void DrawLabel(Label element)
-        {
-            drawingAdapter.DrawString(element.content, element.top_left_corner, element.color);
-
-        }
-
-        public void DrawGuiView(GuiView gui_view)
+        public override void OnView(ViewElement gui_view)
         {
             gui_view.elements.Reset();
 
