@@ -1,0 +1,75 @@
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\obj\x86\Debug\GUIapp.exe
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\obj\x86\Debug\GUIapp.pdb
+E:\Hogeschool\designpatternsexcersises\GUIapp - iteration 1 - incomplete\GUIapp\obj\x86\Debug\GUIapp.csprojResolveAssemblyReference.cache
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\obj\x86\Debug\GUIapp.csprojResolveAssemblyReference.cache
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\obj\x86\Debug\GUIapp.exe
+E:\Hogeschool\designpatternsexcersises\GUIapp\GUIapp\obj\x86\Debug\GUIapp.pdb
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\obj\x86\Debug\GUIapp.csprojResolveAssemblyReference.cache
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\obj\x86\Debug\GUIapp.exe
+E:\Hogeschool\Design Patterns Excersises - Robert Kraaijeveld (0890289 - INF3C)\GUIapp\GUIapp\obj\x86\Debug\GUIapp.pdb
